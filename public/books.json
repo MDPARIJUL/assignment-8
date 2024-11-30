@@ -1,0 +1,83 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "profile": "https://i.ibb.co.com/1RL3p92/pngwing-1.png",
+        "review": "A gripping psychological thriller with unexpected twists.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Thriller",
+        "tags": ["Suspense", "Psychological", "Mystery"],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+      },
+      {
+        "id": 2,
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "profile": "https://i.ibb.co.com/4j9GBty/6569777-removebg-preview.png",
+        "review": "A powerful guide to building good habits and breaking bad ones.",
+        "totalPages": 320,
+        "rating": 4.8,
+        "category": "Self-Help",
+        "tags": ["Productivity", "Self-Improvement", "Motivation"],
+        "publisher": "Avery",
+        "yearOfPublishing": 2018
+      },
+      {
+        "id": 3,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "profile": "https://i.ibb.co.com/wYKYMKH/14985242-5547458-removebg-preview.png",
+        "review": "An inspiring memoir about resilience and the pursuit of education.",
+        "totalPages": 334,
+        "rating": 4.7,
+        "category": "Memoir",
+        "tags": ["Biography", "Inspirational", "Non-fiction"],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+      },
+      {
+        "id": 4,
+        "bookName": "Dune",
+        "author": "Frank Herbert",
+        "profile": "https://i.ibb.co.com/vsXDz5c/images-1-removebg-preview.png",
+        "review": "A science fiction masterpiece that explores politics, religion, and power.",
+        "totalPages": 896,
+        "rating": 4.6,
+        "category": "Science Fiction",
+        "tags": ["Adventure", "Epic", "Space Opera"],
+        "publisher": "Chilton Books",
+        "yearOfPublishing": 1965
+      },
+      {
+        "id": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "profile": "https://i.ibb.co.com/1RL3p92/pngwing-1.png",
+        "review": "A timeless romance novel with sharp wit and social commentary.",
+        "totalPages": 279,
+        "rating": 4.4,
+        "category": "Classic",
+        "tags": ["Romance", "Literature", "Historical"],
+        "publisher": "T. Egerton",
+        "yearOfPublishing": 1813
+      },
+      {
+        "id": 6,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "profile": "https://i.ibb.co.com/4j9GBty/6569777-removebg-preview.png",
+        "review": "An enchanting tale about following one's dreams and destiny.",
+        "totalPages": 208,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": ["Philosophical", "Inspirational", "Adventure"],
+        "publisher": "HarperOne",
+        "yearOfPublishing": 1988
+      }
+    ]
+  }
+  

@@ -37,9 +37,9 @@ const Nav = () => {
         </div>
         <div className=" ">
           <ul className="menu menu-horizontal px-1 hidden lg:flex gap-10 items-center ">
-              <NavLink className={({isActive})=>isActive ? 'border border-[#23BE0A]  px-4 py-2 text-[#23BE0A] rounded-lg text-xl':'work-sans font-normal text-xl text-[#131313CC]' } to='/'>Home</NavLink>
-              <NavLink className={({isActive}) => isActive? 'border border-[#23BE0A] px-4 py-2 text-[#23BE0A] rounded-lg text-xl':'work-sans font-normal text-xl text-[#131313CC]' } to='/listed-books'>Listed Books</NavLink>
-              <NavLink className={({isActive}) => isActive? 'border border-[#23BE0A] px-4 py-2 text-[#23BE0A] rounded-lg text-xl':'work-sans font-normal text-xl text-[#131313CC]'} to='/pages-to-read'>Pages to Read</NavLink>
+              <NavLink className={({isActive})=>isActive ? 'border border-[#23BE0A]  px-4 py-2 text-[#23BE0A] rounded-lg text-xl':'work-sans font-normal text-xl text-[#131313CC] hover:bg-gray-400 hover:px-4 py-2  hover:text-orange-400 hover:rounded-lg hover:duration-500'  } to='/'>Home</NavLink>
+              <NavLink className={({isActive}) => isActive? 'border border-[#23BE0A] px-4 py-2 text-[#23BE0A] rounded-lg text-xl':'work-sans font-normal text-xl text-[#131313CC] hover:bg-gray-400 hover:px-4 py-2  hover:text-orange-400 hover:rounded-lg hover:duration-500' } to='/listed-books'>Listed Books</NavLink>
+              <NavLink className={({isActive}) => isActive? 'border border-[#23BE0A] px-4 py-2 text-[#23BE0A] rounded-lg text-xl':'work-sans font-normal text-xl text-[#131313CC] hover:bg-gray-400 hover:px-4 py-2  hover:text-orange-400 hover:rounded-lg hover:duration-500'} to='/pages-to-read'>Pages to Read</NavLink>
           </ul>
         </div>
         <div className="flex gap-4">
